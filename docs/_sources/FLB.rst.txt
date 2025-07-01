@@ -11,7 +11,7 @@
    <div align="center"><img id="BB.1" src="./_static/fig/B.1.png" alt="Picture" width="900px"></div>
   <script type="text/javascript">var viewer = new Viewer(document.getElementById('BB.1'));</script>
   <P>   </P>
-   <div align="center"><img id="BB.2" src="./_static/fig/B.2.png" alt="Picture" width="600px"></div>
+   <div align="center"><img id="BB.2" src="./_static/fig/B.2.png" alt="Picture" width="650px"></div>
   <script type="text/javascript">var viewer = new Viewer(document.getElementById('BB.2'));</script>
   <P>   </P>
    <div align="center"><img id="BB.3" src="./_static/fig/B.3.png" alt="Picture" width="900px"></div>

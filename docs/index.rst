@@ -9,7 +9,7 @@
 
  <p></p>
  
-城市桥梁养护技术标准
+在用公路桥梁现场检测技术规程
 =========================================
 
 
@@ -17,12 +17,12 @@
 .. raw:: html
 
 
- <h1 id="test111" ><font size="6"><br/><br/><br/>城市桥梁养护技术标准</font></h1>
+ <h1 id="test111" ><font size="6"><br/><br/><br/>在用公路桥梁现场检测技术规程</font></h1>
 
- <b><br/><br/><font size="3"> Technical standard of maintenance for city bridge</font></b>
+ <b><br/><br/><font size="3"> Technical Specifications for Field Inspection of Existing Highway Bridges</font></b>
 
 
-  <b><br/><br/><br/><font size="4">CJJ 99-2017</font></b>
+  <b><br/><br/><br/><font size="4">JTG/T 5214-2022</font></b>
 
  <p></p>
   
@@ -31,12 +31,16 @@
  <body>
  <table border="0" style="font-family:times new roman" >
  <tr>
- <td><font size="4"><br/><br/>批准部门:</font></td>
- <td><font size="4"><br/><br/>中华人民共和国住房和城乡建设部</font></td>
+ <td><font size="4"><br/><br/>主编单位:</font></td>
+ <td><font size="4"><br/><br/>交通运输部公路科学研究院</font></td>
  </tr>
  <tr>
- <td><font size="4"><br/>施行日期：</font></td>
- <td><font size="4"><br/>2018年2月1日</font></td>
+ <td><font size="4"><br/>批准部门：</font></td>
+ <td><font size="4"><br/>中华人民共和国交通运输部</font></td>
+ </tr>
+ <tr>
+ <td><font size="4"><br/>实施日期：</font></td>
+ <td><font size="4"><br/>2022年11月01日</font></td>
  </tr>
   </table>
 	</body>
@@ -45,7 +49,7 @@
 
     <style>
         #abc{
-            height:300px;
+            height:200px;
             background-color: #f0ffff;
         }
     </style>
@@ -56,7 +60,8 @@
 
 
 
- <p><b><font size="4">2017·北京</font></b></p>
+ <p> 人民交通出版社股份有限公司</b></p>
+ <p> 北京</b></p>
 
 
 
@@ -76,16 +81,10 @@
     7
     8
     9
-    10
-    11
-    12
     FLA
     FLB
     FLC
     FLD
-    FLE
-    FLF
     ycsm
-    yyml
-    twsm
+
    

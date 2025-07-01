@@ -7,17 +7,15 @@
 
 .. raw:: html
 
- <p style="text-align:justify"><a href="#id1.0.1"> 1.0.1</a> <span id="id1.0.1">加强城市桥梁的养护工作,提高城市桥梁的养护水平，维护城市桥梁设施，保障城市桥梁完好和安全运行，制定本标准。</span></p>
- <p style="text-align:justify"><a href="#id1.0.2"> 1.0.2</a> <span id="id1.0.2">标准适用于已竣工验收后交付使用的城市桥梁的养护。</span></p>
- <p style="text-align:justify"><a href="#id1.0.3"> 1.0.3</a> <span id="id1.0.3">市桥梁的养护除应符合本标准外，尚应符合国家现行有关标准的规定。</span></p>
+ <p style="text-align:justify"><a href="#id1.0.1"> 1.0.1</a> <span id="id1.0.1">为明确在用公路桥梁现场检测工作程序，合理选择检测方法,规范现场检测操作要求，制定本规程。</span></p>
+ <p style="text-align:justify"><b>条文说明</b></p>
+ <p style="text-align:justify;text-indent:2em;" > 公路桥梁现场检测是开展桥梁评定和养护维修的前期基础性工作。制定在用公路桥梁现场检测技术规程，进一步规范现场检测实施与操作，提高检测数据的准确性与可靠性，为更好地依据现行<a href="https://jtg-h21.readthedocs.io/zh/latest/">《公路桥梁技术状况评定标准》(JTG/T H21)</a>、<a href="https://jtgtj21-2011.readthedocs.io/zh-cn/latest/">《公路桥梁承载能力检测评定规程》(JTG/T J21)</a>等进行桥梁评定工作提供支撑和保障。</p>
+ <p style="text-align:justify"><a href="#id1.0.2"> 1.0.2</a> <span id="id1.0.2">本规程适用于各等级公路在用桥梁的现场检测。</span></p>
+ <p style="text-align:justify"><b>条文说明</b></p>
+ <p style="text-align:justify;text-indent:2em;" > 本规程主要针对在用桥梁的现场检测，检测项目包括表观和内部病害、材质状况、几何形态等。对荷载试验等已发布专项规程的检测项目，本规程不作相关规定。</p>
+ <p style="text-align:justify"><a href="#id1.0.3"> 1.0.3</a> <span id="id1.0.3">在保证准确性和可靠性的前提下，现场检测应鼓励采用先进成熟的方法、软件、设备等新技术。</span></p>
+ <p style="text-align:justify"><b>条文说明</b></p>
+ <p style="text-align:justify;text-indent:2em;" > 成熟的新技术是指与传统检测技术比对验证为有效可靠的方法、软件和设备等，包括各类检测辅助软件、数据管理系统、无人机检测装置和检测机器人等。采用新技术的目的是在保证检测结果准确、可靠的前提下，提升检测效率，降低工作强度。</p>
+ <p style="text-align:justify"><a href="#id1.0.4"> 1.0.4</a> <span id="id1.0.4">在用公路桥梁现场检测除应符合本规程的规定外，尚应符合国家和行业现行有关标准的规定。</span></p>
 
- <style>
-        #abc{
-            height:400px;
-            background-color: #f0ffff;
-        }
-    </style>
- </head>
- <body>
-    <div id="abc"></div>
- </body>
+ 

@@ -1,111 +1,270 @@
-9 隧道
+9 其他检测
 ==============================================
 
 .. raw:: html
 
-  <h2 id="test111">9 隧道</h2>
+  <h2 id="test111">9 其他检测</h2>
 
+
+
+9.1 支座检测
+------------------------------------
 
 .. raw:: html
 
- <p style="text-align:justify"><a href="#id9.0.1"> 9.0.1</a> <span id="id9.0.1"> 城市隧道养护应包括洞身、洞门、路面和两端路堑、防护设施、排水设施、洞口过渡段设施以及通风、照明、标志、标线、监控、消防、防冻、消音等设施的检查、保养、维修和加周。</span></p>
- <p style="text-align:justify"><a href="#id9.0.2"> 9.0.2</a> <span id="id9.0.2"> 城市隧道养护类别宜分为三类。根据其在城市中的重要性，宜分为两个养护等级，并应符合下列规定：</span></p> 
- <ol>
- <li>城市隧道养护类别分类:</li>
- </ol>
-  <dl>
- <li>&emsp;&emsp;I类城市隧道:L≥1000m的隧道(L为隧道长度)。</li>
- <li>&emsp;&emsp;Ⅱ类城市隧道:500 m≤L＜1000m的隧道，或1＜500 m且穿越湖泊、河流的隧道。</li>
- <li>&emsp;&emsp;Ⅲ类城市隧道:除1类、Ⅱ类以外其他城市隧道。</li>  
- </dl>
-  <ol start="2">
- <li>养护等级应分为两个等级。1等养护的城市隧道应重点养护，Ⅱ等养护的城市隧道可一般养护。</li>
- </ol>
-  <dl>
- <li>&emsp;&emsp;I等养护的城市隧道：I类城市隧道、道路等级为城市快速路和主干路的隧道及位于风景区、商业区的Ⅱ、Ⅲ类城市隧道。</li>
- <li>&emsp;&emsp;Ⅱ等养护的城市隧道：除1等养护以外的其他城市隧道。</li> 
- </dl>
-
- <p style="text-align:justify"><a href="#id9.0.3"> 9.0.3</a> <span id="id9.0.3"> 城市隧道土建结构的检查应分为经常性检查、定期检测、特殊检测三类，并应符合下列规定:</span></p>
- <ol>
- <li>经常性检查应对土建结构的外观状况进行日常巡检。I等养护隧道应每日巡检，Ⅱ等养护隧道巡检周期不宜超过3d。</li>
- <li>定期检测应按规定周期对土建结构的基本技术状况进行全面检查。定期检测应每年1次，可根据城市隧道实际运行状况和结构类型、周边环境等适当增加检测次数。</li>
- <li>特殊检测应根据经常性检查和定期检测的结果，对结构的破损或病害的详细情况进行更深人的专门检测。</li>
- <li>经常性检查应由专职隧道工程技术人员负责，并填写相关检查记录。定期检测、特殊检测应由具备相应资质的专业单位承担，主要检测人员应具有5年以上隧道专业工程师资格。</li>
- <li>对工类城市隧道和穿越湖泊、河流的隧道宜建立监控系统。</li>
- </ol> 
- <p style="text-align:justify"><a href="#id9.0.4"> 9.0.4</a> <span id="id9.0.4"> 隧道内路面和人行道应按现行行业标准《城镇道路养护技术规范》CJJ36中同等级城市道路养护要求执行。</span></p>
- <p style="text-align:justify"><a href="#id9.0.5"> 9.0.5</a> <span id="id9.0.5"> 隧道保养小修应符合下列规定：</span></p>
- <ol>
- <li>应及时清扫隧道内外的塌落物、隧道口边仰坡上的危石、积雪、积水和挂冰。</li>
- <li>各种标志、标线及反光部位应每季度清扫一次，每年刷新、修理一次，不得有污染和缺损。</li>
- </ol>  
- <p style="text-align:justify"><a href="#id9.0.6"> 9.0.6</a> <span id="id9.0.6"> 隧道衬砌的养护应符合下列规定：</span></p>
- <ol>
- <li>隧道衬砌不得有大于20 mm的变形，裂缝开裂不得大于5 mm，不得有渗漏。</li>
- <li>隧道衬砌已稳定的裂缝可封闭。当裂缝区域较大影响衬砌强度时，应进行加固。</li>
- <li>当隧道衬砌变形、下沉、外倾或腐蚀剥落严重时，应进行加固。</li>
- <li>隧道内路面拱起、沉陷、错位、开裂，可采取下列加固措施：</li>
- </ol> 
- <dl>
- <li>&emsp;&emsp;1）因围岩侧压力过大使侧墙内移而引起路面拱起时，应加固。</li>
- <li>&emsp;&emsp;2）路面局部沉陷、错位、严重碎裂时，应翻建。</li> 
- </dl>  
- <ol start="5">
- <li>当隧道衬砌局部突然坍塌时，应暂时封闭交通，立即进行临时支护，随即重新衬砌施工。当坍穴过大时，应进行回填设计后再施工。</li>
- </ol>  
- <p style="text-align:justify"><a href="#id9.0.7"> 9.0.7</a> <span id="id9.0.7">无衬砌隧道的围岩养护应符合下列规定：</span></p>
- <ol >
- <li>当无衬砌隧道的围岩发生破碎、产生危石或渗漏时，应及时治理。</li>
- <li>治理围岩破碎和危石可采用下列措施：</li>
- </ol>  
- <dl>
- <li>&emsp;&emsp;1）危石应及时清除，当清除会牵动周围大片岩石时，可喷浆或压浆稳固。</li>
- <li>&emsp;&emsp;2）对不宜清除的小面积破碎，可采取措施稳固。</li>
- <li>&emsp;&emsp;3）碎裂范围较大时，应加固。</li>
- <li>&emsp;&emsp;4）对不能清除又无法压浆稳固的危石,应采取支护措施。</li>
- </dl>  
- <ol start="3">
- <li>隧道内的孔洞、溶洞或裂缝均应封闭。有水的孔洞应预埋泄水孔、接引水管，将水从边沟排出。</li>
- </ol>  
+ <p style="text-align:justify"><a href="#id9.1.1"> 9.1.1</a> <span id="id9.1.1"> 支座病害检测前，应查阅支座设计与安装图纸、以往检测报告和维修更换记录。</span></p>
+ <p style="text-align:justify"><b>条文说明</b></p>
+ <p style="text-align:justify;text-indent:2em;" > 通过查闻支座设计与安装图纸，便于检测人员在现场检测过程中发现常见的桥梁支座安装缺陷，如支座临时连接板未拆除、活动支座主位移方向安装不正确以及支座安装位置不准确等。通过查阅以往检测报告和维修更换记录，便于检测人员选择需进行重点检测的支座并对支座病害发展情况作出分析判断。</p>
+ <p style="text-align:justify"><a href="#id9.1.2"> 9.1.2</a> <span id="id9.1.2"> 初始检查、定期检查和特殊检查时，宜对全桥范围内的支座进行全数检测，并应对大位移活动支座、弯坡斜桥上的板式橡胶支座进行重点检测。</span></p>
+ <p style="text-align:justify"><b>条文说明</b></p>
+ <p style="text-align:justify;text-indent:2em;" > 桥梁支座作为传递桥梁上部结构荷载和变形的重要结构部件，在桥梁现场检测过程中宜进行全数检测。对以往检测资料中病害较为严重的支座，主要检测支虚病害发展情况；对大位移活动支座，主要检测支座水平位移功能是否正常，有无位移超限引起支座卡死和不能正常复位等情况；对弯斜桥上的板式橡胶支座，主要检测有无支座脱空或挤压。对坡桥上的板式橡胶支座，主要检测支座有无剪切变形超限和移位。</p>
+ <p style="text-align:justify"><a href="#id9.1.3"> 9.1.3</a> <span id="id9.1.3"> 常见支座典型病害类型可按<a href="#B9.1.3">表9.1.3</a>确定</span></p>
 
 
- <p style="text-align:justify"><a href="#id9.0.8"> 9.0.8</a> <span id="id9.0.8">隧道的防护应符合下列规定：</span></p>
- <ol>
- <li>隧道外山坡岩石风化严重或有溶洞、大于10 cm²坑穴、大于20 mm裂缝时，可封闭裂缝，整修地表，稳固山坡。当地表岩石松散破碎时，可清除或固结。</li>
- <li>隧道内的孔洞、溶洞或裂缝均应封闭。有水的孔洞应预埋泄水孔、接引水管，将水从边沟排出。</li> 
- </ol> 
- <p style="text-align:justify"><a href="#id9.0.9"> 9.0.9</a> <span id="id9.0.9"> 隧道排水应符合下列规定：</span></p>
- <ol>
- <li>有坡度的隧道其上洞口外的水不得流入洞内；</li>
- <li>隧道山坡上的地表水，不得渗入洞身；</li> 
- <li>隧道内的防水层、排水设施必须完好、畅通、有效；</li>
- <li>隧道内渗水应及时堵漏；</li> 
- <li>洞内发生涌水时，应立即处置；</li>
- <li>洞口内外排水系统应定期疏通，不得堵塞失效。</li> 
- </ol> 
- <p style="text-align:justify"><a href="#id9.0.10"> 9.0.10</a> <span id="id9.0.10">隧道内通风、照明、监控、消防、防冻设施的运营及养护应符合下列规定：</span></p>        
- <ol>
- <li>隧道应通风良好，每日监测洞内一氧化碳气体浓度，其容许浓度应满足设计要求。</li>
- <li>监测隧道内烟尘含量，其容许浓度应满足设计要求，且应小于下列标准值：</li> 
- </ol> 
- <dl>
- <li>&emsp;&emsp;1）当采用显色指数<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>R</mi><mrow><mi>a</mi></mrow></msub><mo>⩾</mo><mn>65</mn></math>、相关色温3300 K～6000 K的荧光灯、LED灯等光源时,通道烟尘浓度控制值为<math xmlns="http://www.w3.org/1998/Math/MathML" ><mn>0.0075</mn><mtext>&nbsp;</mtext><msup><mrow><mi mathvariant="normal">m</mi></mrow><mrow><mo>−</mo><mn>1</mn></mrow></msup></math>；</li>
- <li>&emsp;&emsp;2）当采用显色指数<math xmlns="http://www.w3.org/1998/Math/MathML" ><mn>33</mn><mo>⩽</mo><msub><mi>R</mi><mrow><mi>a</mi></mrow></msub><mo>⩽</mo><mn>60</mn></math>、相关色温2000 K～3000 K的钠光源时,通道烟尘浓度控制值为<math xmlns="http://www.w3.org/1998/Math/MathML" ><mn>0.0090</mn><mtext>&nbsp;</mtext><msup><mrow><mi mathvariant="normal">m</mi></mrow><mrow><mo>−</mo><mn>1</mn></mrow></msup></math>；</li> 
- <li>&emsp;&emsp;3）当烟尘含量达到和超过<math xmlns="http://www.w3.org/1998/Math/MathML" ><mn>0.012</mn><mtext>&nbsp;</mtext><msup><mrow><mi mathvariant="normal">m</mi></mrow><mrow><mo>−</mo><mn>1</mn></mrow></msup></math>时，宜采取交通管制等措施。</li>  
- </dl>
- <ol start="3">
- <li>隧道内的通风设备应按下列要求进行检修：</li>
- </ol> 
- <dl>
- <li>&emsp;&emsp;1）当采用竖井或边窗通风时，井、窗应通风通畅；</li>
- <li>&emsp;&emsp;2）各式通风机、管道、机电、动力设备等应完好、安全、有效，应每周检修一次，每季度进行一次全面检修。</li> 
- </dl>
- <ol start="4"> 
- <li>隧道内的照明设施应完好、有效，照度应满足设计要求；照明器具应防振、防水、防尘，应每天检查并更换损坏的电器，并应每季度检修一次。</li>
- <li>隧道内安装的烟尘浓度测定仪、一氧化碳浓度测定仪、交通量测定装置、监视电视以及照明、通风、配电设备等自动控制设备和监视控制这些设备运转情况的监控设备应完好有效，其保养维修应由专业人员按设备维修规定进行。当隧道内一氧化碳浓度、烟尘浓度超过规定值时应及时开启风机。</li> 
- <li>隧道内设置的紧急电话、报警装置、排烟设备、消防给水管网及消防器材库等应完好有效。</li>
- <li>隧道内不得存放汽油、煤油、稀料等易燃物品。通道内严禁明火作业和取暖。紧急停车带、行车(人)横洞、避车洞及错车道不得堆放杂物。</li> 
- <li>高寒冰冻区的隧道、洞口构造物应防冻保温，隧道内路面不得有冻结。</li>
- </ol>
+      <style>
+     #biaoge {
+         border: 2px solid black;
+         border-collapse: collapse;
+         margin-bottom:1px;
+        
+      }
+      th, td {
+         padding-top: 5px;
+         padding-bottom:5px;
+         padding-left:5px;
+         padding-right:5px;
+         border: 1px solid black;
+         
+      }
+      #eqzs {
+         border: 0px;
+      }
+      #dhbg {
+        vertical-align: middle;
+      }
+     </style>
+   <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B9.1.3">表9.1.3 常见支座典型病害类型</b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="250px" >支座类型</td>
+   <td  align="center" id="dhbg" width="650px" >典型病害类型</td>
+   </tr>
+   <tr>
+   <td  align="center" id="dhbg" >板式橡胶支座</td>
+   <td  align="left" id="dhbg"  > 橡胶保护层开裂、劣化、外鼓；剪切变形超限；移位；脱空</td>
+   </tr>  
+   <tr>
+   <td  align="center" id="dhbg" >盆式(或球型)支座</td>
+   <td  align="left" id="dhbg"  > 竖向压缩超限；局部偏压、转角超限；钢组件损坏、锈蚀；安装缺陷</td>
+   </tr>
+   <tr>
+   <td  align="center" id="dhbg" >钢支座</td>
+   <td  align="left" id="dhbg"  >钢支座组件或功能缺陷；钢支座位移或转角超限；钢支座部件磨损、裂纹、锈蚀；锚栓剪断</td>
+   </tr>
+   <tr>
+   <td  align="center" id="dhbg" >隔震像胶支座</td>
+   <td  align="left" id="dhbg"  >橡胶开裂、劣化；脱空；剪切变形超限</td>
+   </tr>
+   <tr>
+   <td  align="center" id="dhbg" >混凝土摆式支座</td>
+   <td  align="left" id="dhbg"  > 混凝土脱皮、器筋、裂纹、利南、掉角、酥裂、压碎；活动支座滑动面不平整、生锈咬死、轴承有裂纹、切口或偏移</td>
+   </tr>
+   <tr>
+   <td  align="center" id="dhbg" >横向支座和整向支座</td>
+   <td  align="left" id="dhbg"  >螺纹、螺帽松动或错栓杆剪切；上下座板(盆)锈蚀；纵横向扭转</td>
+   </tr>
  
+	</table>
+   <p style="text-indent:2em;" ><font size="2"> </font></p>
+
+ <p style="text-align:justify"><b>条文说明</b></p>
+ <p style="text-align:justify;text-indent:2em;" > 20世纪60年代之前，国内使用的桥梁支座几乎全部都是铜支座。从20世纪60年代初开始，盆式支座与板式橡胶支座逐渐成为国内最主要的桥梁支座形式。此后，我国在20世纪80年代末研制出球型支座。目前新建的公路桥梁，几乎都在使用板式橡胶支座、盆式支座与球型支座。随着我国桥梁支座设计加工水平的提高，目前已出现一些可解决特珠用途的支座,如拉压支座、隔震橡胶支座以及摩擦摆支座等。根据目前国内桥梁支座使用现状和实际情况，<a href="#B9.1.3">表9.1.3</a>只列出了国内早期和目前广泛采用的支座类型，以及部分目前使用较多的特殊支座类型。</p>
+ <p style="text-align:justify"><a href="#id9.1.4"> 9.1.4</a> <span id="id9.1.4"> 板式橡胶支座现场检测宜按下列步骤和方法进行：</span></p>
+ <ol>
+ <li> 查阅支座设计与安装图纸、以往检测资料和养护更换记录。</li>
+ <li> 对照支座安装图纸检查支座是否有漏放，支座安装方向、支座形式是否有误，临时固定设施是否拆除，支座是否出现移位等。</li>
+ <li> 目测检查支座有无龟裂裂纹、水平裂缝、钢板外露，支座各层加劲钢板之间的橡胶板是否有不均匀鼓凸等；对滑板橡胶支座，检查支座滑板是否完好，支座位移是否超出了支座顶面的不锈钢板。</li>
+ <li> 采用钢直尺测量支座移位长度、钢板外露长度、支座不均匀外鼓长度等，记录精确到1 mm。</li>  
+ <li> 通过目测支座顶面是否透光来检查支座是否存在脱空，可用钢尺测量脱空长宽估算脱空面积，用塞尺测量支座脱空间隙。</li>
+ <li> 先采用钢尺分别测量支座顶面水平位移和支座竖向高度，再换算为支座剪切变形角度，或使用角度尺进行量测,检查剪切角是否大于35°。支座顶面水平位移和 支座竖向高度均精确到1 mm，剪切变形角度精确到1°。支座现场检查记录可按<a href="https://jtgt5124-2022.readthedocs.io/zh-cn/latest/FLC.html#BC.1">表C-1</a> 执行。</li> 
+ </ol> 
+ <p style="text-align:justify"><b>条文说明</b></p>
+ <p style="text-align:justify;text-indent:2em;" > 板式橡胶支座目前在国内中小跨径的钢筋混凝土桥梁、预应力混凝土桥梁及钢桥上应用极为广泛。随着板式橡胶支座应用数量的增加，由于支座选型或安装不当、使用环境较差、支座本身质量问题等原因引起的支座病害也较为常见。板式擦胶支座现场安装正确与否会关系到板式橡胶支座位移功能的实现。矩形支座短边应沿顺桥方向放置，以利于梁端转动。圆形支座各向同性，安装时无须考虑方向性。在斜桥上安装，若采用相同斜交角的平行四边形的斜角橡胶支座时，支座短边要平行于顺桥向，长边要平行于墩台中心线。顺桥向与墩台中心线的斜交失角应与支座的锐角相符。任何情况下，在同一片梁(板)上任一端支摔处，横向通常不设置两个支座以上，且支座不能沿梁纵向并排安装。</p>
+ <p style="text-align:justify;text-indent:2em;" > 板式橡胶支座中的橡胶层受到大气中氧气、臭氧、紫外线作用及外力等影响，会出现橡胶老化。橡胶老化通常从支座橡胶保护层出现开裂、变硬等老化现象开始，然后缓慢地向内部发展造成裂纹。</p>
+ <p style="text-align:justify;text-indent:2em;" > 通常，板式橡胶支座在竖向力作用下，钢板之间的橡胶向外产生均匀的凸起，这是正常现象。当橡胶与支座加劲钢板之间黏结不良时，在竖向力作用下就发生钢板与橡胶的脱离，进而引起板式橡胶支座侧表面不均匀的鼓凸、支座表面出现裂纹以及中间钢板外露。</p>
+ <p style="text-align:justify;text-indent:2em;" > 板式橡胶支座的脱空可以分为局部脱空和全脱空。板式橡胶支座与梁底面或支承垫石顶面有部分不密贴，称为局部脱空；当板式橡胶支虚与梁底面完全脱离时，称为全脱空。板式橡胶支座全脱空在预制混凝土板梁桥中是较常见，主要是由于预制混凝土板一端的两个支座支承整石顶面高程相差较大，或预制混凝土板在支座安装部位的板底面不平造成的。对曲线箱梁，特别是独柱墩的预应力混凝土曲线箱梁，很容易产生由于曲线箱梁的整体位移、转动而引起支座脱空。</p>
+ <p style="text-align:justify"><a href="#id9.1.5"> 9.1.5</a> <span id="id9.1.5"> 盆式(或球型)支座现场检测宜按下列步骤和方法进行：</span></p>
+ <ol>
+ <li> 查阅支座设计与安装图纸、以往检测资料和养护更换记录。</li>
+ <li> 对照支座安装图纸检查支座安装方向是否有误，支座临时连接板是否解除等。</li>
+ <li> 对于要求设置防尘罩的支座，目测检查支座防尘罩是否完好。进行支座现场检测时，可打开或取下防尘罩。检测完毕后，需重新安装防尘罩并恢复原状。</li>
+ <li> 目测检查梁体横桥向位移有无超限。如梁体横向位移过大，应检查支座是否破坏、锚固螺栓是否剪断以及防震挡块是否有开裂破损。</li>  
+ <li> 目测检查盆式支座钢盆有无表面裂纹、翘起变形、锈蚀；承压橡胶板一侧是否从钢盆中挤出；对于钢盆由盆环钢板和盆底焊接制成的应检查有无钢件脱焊。</li>
+ <li> 对盆式(或球型)支座的转角，可采用卷尺测量支座上支座板顶面、下支座板底面之间的最大和最小间隙以及支座上支座板长度来求得。</li> 
+ <li> 目测检查盆式(或球型)活动支座的水平位移功能是否正常，有无卡死，支座平面滑板有无滑出平而不锈钢板范围。</li>
+ <li> 平面滑板的磨损程度可通过测量支座上支座板不锈钢板与盆式支座中间钢板或与球型支座球冠村板上缘端面之间的间隙进行。</li>  
+ <li> 通过目测结合锤击检查支座锚固螺栓是否有松动、倾斜、顶死、顶弯以及锚固螺栓孔是否注浆。</li>
+ <li> 对于球型支座,应目测检查中间钢衬板有无滑出下支座板四槽后不能复位的情况。公路桥梁盆式(或球型)支座检查记录可按<a href="https://jtgt5124-2022.readthedocs.io/zh-cn/latest/FLC.html#BC.2">表C-2</a> 执行。</li> 
+ </ol> 
+ <p style="text-align:justify"><b>条文说明</b></p>
+ <p style="text-align:justify;text-indent:2em;" > 滑板的磨损程度直接影响盆式(或球型)支座的使用寿命。对大吨位和大位移盆式(或球型)支座，要注意检查平面滑板的磨耗程度，可以根据上支虚板的不锈钢板与盆式支座中间钢板或与球型支度球冠村板上缘端面之间的间隙<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>h</mi><mrow><mn>0</mn></mrow></msub></math>来判断平面滑板磨耗程度:</p>
+ <p style="text-align:justify;text-indent:2em;" > 当<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>h</mi><mrow><mn>0</mn></mrow></msub><mo>⩾</mo><mn>3</mn><mtext>&nbsp;</mtext><mrow><mi mathvariant="normal">m</mi><mi mathvariant="normal">m</mi></mrow></math>时，支座正常；<br/>&emsp;&emsp;&nbsp;&nbsp;当<math xmlns="http://www.w3.org/1998/Math/MathML" ><mn>2</mn><mtext>&nbsp;</mtext><mrow><mi mathvariant="normal">m</mi><mi mathvariant="normal">m</mi></mrow><mo>⩽</mo><msub><mi>h</mi><mrow><mn>0</mn></mrow></msub><mo>&lt;</mo><mn>3</mn><mtext>&nbsp;</mtext><mrow><mi mathvariant="normal">m</mi><mi mathvariant="normal">m</mi></mrow></math>时，应每年测量间隙变化;<br/>&emsp;&emsp;&nbsp;&nbsp;当<math xmlns="http://www.w3.org/1998/Math/MathML" ><mn>1</mn><mtext>&nbsp;</mtext><mrow><mi mathvariant="normal">m</mi><mi mathvariant="normal">m</mi></mrow><mo>⩽</mo><msub><mi>h</mi><mrow><mn>0</mn></mrow></msub><mo>&lt;</mo><mn>2</mn><mtext>&nbsp;</mtext><mrow><mi mathvariant="normal">m</mi><mi mathvariant="normal">m</mi></mrow></math>时，应缩短检查期限；<br/>&emsp;&emsp;&nbsp;&nbsp;当<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>h</mi><mrow><mn>0</mn></mrow></msub><mo>&lt;</mo><mn>1</mn><mtext>&nbsp;</mtext><mrow><mi mathvariant="normal">m</mi><mi mathvariant="normal">m</mi></mrow></math>时，应更换支座。</p>
+ <p style="text-align:justify"><a href="#id9.1.6"> 9.1.6</a> <span id="id9.1.6"> 对水平位移较大的盆式(或球型)支座，应对支座位移量和支座位移功能进行连续观测。</span></p>
+ <p style="text-align:justify"><b>条文说明</b></p>
+ <p style="text-align:justify;text-indent:2em;" > 对于多跨长联连续梁上的活动支座等水平位移较大的盆式(或球型)支座，支座安装缺陷、滑板污损、不锈钢板锈蚀、平面滑板位移超出上支座板不锈钢板范围等可能会引起支座卡死和损坏，应对支座位移情况进行连续观测。现场检测时，可以用钢卷尺测量支座顶板纵向长度中心线与支座下支座板纵向长度中心线水平间距<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>L</mi><mrow><mn>0</mn></mrow></msub></math>，通过对比历次检测资料中水平间距<math xmlns="http://www.w3.org/1998/Math/MathML" ><msub><mi>L</mi><mrow><mn>0</mn></mrow></msub></math>，可以了解支座位移情况是否正常。对于多跨长联连续梁梁端活动支座，可以通过检查梁端支点处的梁端与梁端、梁端与台背间的间隙变化来掌握支座位移情况。</p>
+ <p style="text-align:justify"><a href="#id9.1.7"> 9.1.7</a> <span id="id9.1.7"> 除应对桥梁支座本身进行检测外，尚应对支座垫石及支座使用环境进行检测。</span></p>
+ <p style="text-align:justify"><b>条文说明</b></p>
+ <p style="text-align:justify;text-indent:2em;" > 对桥梁支座垫石，需要检查是否存在垫石不平整、垫石是否开裂、钢垫板面积是否小于支座承压板面积、钢垫板与支座承压面是否错位等现象。整石不平整度高差可采用水平尺测量。对支座使用环境，需要目测检查支座周边废弃混凝土或垃圾堆积范围、是否潮湿积水等。</p>
+
+
+
+9.2 桥梁伸缩装置检测
+------------------------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id9.2.1"> 9.2.1</a> <span id="id9.2.1"> 常见桥梁伸缩装置典型病害类型可按<a href="#B9.2.1">表9.2.1</a>确定。</span></p>
+
+
+
+  <table id="biaoge" style="font-family:times new roman">
+
+   <caption style="caption-side:top;text-align: center;color:black" ><b style="text-align:center"> <div id="B9.2.1">表9.2.1 常见桥梁伸缩装置典型病害类型</b></caption>	
+              
+   <tr>
+   <td  align="center" id="dhbg" width="250px" >伸缩装置类型</td>
+   <td  align="center" id="dhbg" width="650px" >典型病害类型</td>
+   </tr>
+   <tr>
+   <td  align="center" id="dhbg" >单缝式型钢伸缩装置</td>
+   <td  align="left" id="dhbg"  > 橡胶密封带老化、脱落、被裂、漏水，积存泥沙，石丽；边梁构件断裂、翘曲；边梁与桥面销装连接处的锚固区混凝土开裂、破碎；伸缩装置顶面不平整；钢组件变形、松动、锈蚀</td>
+   </tr>  
+   <tr>
+   <td  align="center" id="dhbg" >模数式伸缩装置</td>
+   <td  align="left" id="dhbg"  > 锚固混凝土出现破裂、裂缝、坑槽；中梁构件开焊、断裂、翘曲、晃动、异响；中梁局部变形弯曲下挠；型钢表面四凸不平；伸缩均匀性差，位移控制系统失灵；橡胶密封带老化、脱落或破裂，严重漏水;；橡胶密封带内垃圾堆积过度</td>
+   </tr>
+   <tr>
+   <td  align="center" id="dhbg" >梳齿板式伸熔装置</td>
+   <td  align="left" id="dhbg"  >转动座、螺检和螺母松动、损坏；梳齿问有污渍、水泥浆、锈渍等；齿板表面涂层损坏、污溃、油漆剥落、裂开</td>
+   </tr>
+   <tr>
+   <td  align="center" id="dhbg" >嵌填型(U形镀锌铁皮型等)</td>
+   <td  align="left" id="dhbg"  >伸缩装置缝隙中填料挤出；仲缩装置拉开断裂、漏水</td>
+   </tr>
+   <tr>
+   <td  align="center" id="dhbg" >嵌圆对接型(橡胶条型)</td>
+   <td  align="left" id="dhbg"  > 热天鼓起、冬天脱落，锚固件破坏和两侧混凝土破碎</td>
+   </tr>
+   <tr>
+   <td  align="center" id="dhbg" >板式橡胶伸缩装置</td>
+   <td  align="left" id="dhbg"  >橡胶板剥离；预理钢板外漏、脱落、断裂；盲螺检剪断脱离；两侧混凝土开裂破碎,出现坑槽</td>
+   </tr>
+ 
+	</table>
+   <p style="text-indent:2em;" ><font size="2"> </font></p>
+
+ <p style="text-align:justify"><a href="#id9.2.2"> 9.2.2</a> <span id="id9.2.2"> 模数式仲缩装置现场检测宜按下列步骤和方法进行:</span></p>
+ <ol>
+ <li> 查阅伸缩装置以往检测资料和养护维修资料。</li>
+ <li> 目测检查伸缩装置钢纵梁连接焊缝有无脱开、局部断裂和下凹现象。行车通过时是否有晃动、发出噪声。</li>
+ <li> 目测检查伸缩装置橡胶密封带是否脱落出来或翻跳在装置之外，橡胶密封带是否破漏，伸缩装置处的桥面是否有挤压现象。</li>
+ <li> 目测检查伸缩装置两侧锚固区混凝土开裂情况,，并用钢尺测量主要裂缝长度。</li>  
+ <li> 模数式仲缩装置纵梁高差可采用水准仪测量。可选择模数式伸缩装置纵梁四分点位置，用水准仪测出四分点位置纵梁高差，取3个四分点位置高差最大值即为纵梁高差。</li>
+ <li> 采用钢尺或游标卡尺测量纵梁间隙宽度是否均匀。模数式伸缩装置现场检查记录可按<a href="https://jtgt5124-2022.readthedocs.io/zh-cn/latest/FLD.html#BD.1">表D-1</a>执行。</li> 
+ </ol> 
+ <p style="text-align:justify"><a href="#id9.2.3"> 9.2.3</a> <span id="id9.2.3"> 梳齿板式仲缩装置现场检测宜按下列步骤和方法进行：</span></p>
+ <ol>
+ <li> 查阅伸缩装置以往检测资料和养护维修资料。</li>
+ <li> 目测检查伸缩装置两侧锚固区混凝土开裂情况，并用钢尺测量主要裂缝宽度和长度。</li>
+ <li> 目测检查锚周螺栓是否锈蚀严重、损坏、脱落，可用扳手检测锚固螺栓是否有松动。</li>
+ <li> 目测检查梳齿板有无变形或翘起、四凸不平、卡齿、齿板断裂和整块脱落。</li>  
+ <li> 目测检查橡胶导水装置内是否积存异物。梳齿板式伸缩装置现场检查记录可按<a href="https://jtgt5124-2022.readthedocs.io/zh-cn/latest/FLD.html#BD.2">表D-2</a>执行。</li>
+ </ol> 
+ <p style="text-align:justify"><a href="#id9.2.4"> 9.2.4</a> <span id="id9.2.4"> 其他类型的伸缩装置的现场检测步骤和方法可参照本规程<a href="#id9.2.2">第9.2.2条</a>和<a href="#id9.2.3">第9.2.3条</a>执行，现场重点检测的病害类型可按本规程<a href="#B9.2.1">表9.2.1</a>执行。</span></p>
+
+
+9.3 墩(台)身与基础检测
+------------------------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id9.3.1"> 9.3.1</a> <span id="id9.3.1"> 墩(台)身与基础检测宜包括表观病害检测、冲刷检测、变位检测、完整性检测和材质状况检测等。</span></p>
+ <p style="text-align:justify"><a href="#id9.3.2"> 9.3.2</a> <span id="id9.3.2"> 墩(台)身和基础的表观病害和冲刷检测，应符合下列规定:</span></p>
+ <ol>
+ <li> 水位变化水域，对桩基础和承台结合处、桩和墩柱结合处的桩身部位应进行重点检测。</li>
+ <li> 桩基础表观病害检测采用人工目视检测和水下自动化检测技术相结合的方式进行。</li>
+ <li> 桩身混凝土表观病害检测和记录参照本规程<a href="https://jtgt5124-2022.readthedocs.io/zh-cn/latest/5.html#id3">第5.2节</a>和<a href="https://jtgt5124-2022.readthedocs.io/zh-cn/latest/5.html#id4">第5.3节</a>进行。</li>
+ <li> 检查基础冲刷深度和基底掏空范围，记录基础冲空面积和累计冲蚀面积及占构件面积的比例。</li>
+ </ol>
+ <p style="text-align:justify"><b>条文说明</b></p>
+ <p style="text-align:justify;text-indent:2em;" > 人工目视检测一般只能大概估计缺陪的尺寸和范围。对处于深水区的桥梁桩基础，由于有些区城水流湍急，气候环境恶劣，人工检测很难进行，采用自动化设备(如水下机器人、水下声呐等)来进行水下基础检测是目前比较好的解决手段。采用水下目视检测法时，随着深度增加采用色谱照明灯具、高压的灯等进行照明，以观测和记录桩基础表面的缺损状态，为是否常做进一步的检测提供依据。</p>
+ <p style="text-align:justify"><a href="#id9.3.3"> 9.3.3</a> <span id="id9.3.3">存在下列情况的在用桥梁基础应进行变位检测：</span></p>
+ <ol>
+ <li> 相邻墩台顶部沉降差超过现行《公路桥涵养护规范》(JTC5120)或现行《公路桥涵地基与基础设计规范》(JTG3363)的限值。</li>
+ <li> 基础周边土体存在深度大于2 m的开挖或高度大于3 m的堆填。</li>
+ <li> 冲刷深度超过设计值的基础。</li>
+ </ol> 
+ <p style="text-align:justify"><b>条文说明</b></p>
+ <p style="text-align:justify;text-indent:2em;" > 桥梁现场检测中如发现支座和墩台支承面损坏，或仲缩装置破坏、接缝减小、伸缩机能受损或丧失等现象时，常检测基础是否有滑移和倾斜。当发现桥果上部结构和桥面系变形过大时，需检测基础是否沉降严重，判断沉降量是否大于规范值。</p>
+ <p style="text-align:justify"><a href="#id9.3.4"> 9.3.4</a> <span id="id9.3.4"> 当墩(台)身和基础出现过大变位，或出现其他病害，经分析认为可导致墩(台)身和基础完整性出现异常时，应开展完整性检测。</span></p>
+ <p style="text-align:justify"><a href="#id9.3.5"> 9.3.5</a> <span id="id9.3.5"> 墩(台)身和基础的完整性检测应符合下列规定:</span></p>
+ <ol>
+ <li> 完整性检测应结合墩(台)身和基础的构造形式和现场条件进行。对于浅基础和深埋基础的浅埋部分，可采用局部开挖等方法进行；对于桩基础，可采用反射波法、旁孔透射波法或旁孔雷达法、钻孔取芯法等方法进行。</li>
+ <li> 采用低应变法检测桩身完整性时，宜优先采用双通道或多通道反射波法。</li>
+ <li> 需要采用其他方法检测时，应先论证后采用。</li>
+ </ol> 
+ <p style="text-align:justify"><b>条文说明</b></p>
+ <p style="text-align:justify;text-indent:2em;" > 现场实施桩基础完整性检测时，以反射波法为主进行普查，对普查存在疑问或发现严重信号异常的桩基，采用旁孔透射波法或旁孔雷达法等方法进行验证。有条件和必要时，进一步采用钻孔取芯法进行检测或验证。</p>
+ <p style="text-align:justify"><a href="#id9.3.6"> 9.3.6</a> <span id="id9.3.6"> 墩(台)身与基础的材质状况与耐久性参数检测宜按本规程<a href="https://jtgt5124-2022.readthedocs.io/zh-cn/latest/7.html">第7章</a>的方法进行。</span></p>
+
+
+9.4 桥面铺装与附属设施检测
+------------------------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id9.4.1"> 9.4.1</a> <span id="id9.4.1"> 桥面铺装表观病害检测，应符合下列规定：</span></p>
+ <ol>
+ <li> 对桥面裂缝可通过目视检测，记录开裂的位置和范围，记录裂缝的走向，通过钢尺测量裂缝的长度、宽度，并拍摄照片进行说明。</li>
+ <li> 铺装层裂缝或坑洞过大时，宜对铺装层以下的结构进行检测。</li>
+ <li> 桥面铺装层产生波浪状凹凸时，宜采用钢直尺测量其高差。</li>
+ </ol> 
+ <p style="text-align:justify"><a href="#id9.4.2"> 9.4.2</a> <span id="id9.4.2"> 桥面铺装层厚度可采用分断面布点钻芯量测，也可采用雷达结合钻芯修正的方法测定。</span></p>
+ <p style="text-align:justify"><b>条文说明</b></p>
+ <p style="text-align:justify;text-indent:2em;" > 采用分断面布点钻芯测量时，量测断面通常布置在跨径四分点位置，每断面通常布置3个钻孔测点，分设在车行道桥跨结构中心线和上、下游边缘处。采用雷达结合钻芯修正检测方法测量时，测线可以选择在跨径四分点位置，从上游边缘至下游边缘进行测量。</p>
+ <p style="text-align:justify"><a href="#id9.4.3"> 9.4.3</a> <span id="id9.4.3"> 混凝土栏杆及护栏表观病害检测,应符合下列规定:</span></p>
+ <ol>
+ <li> 对栏杆扶手的涂装层及混凝土缺损，通过目视进行检测，记录缺损的位置、程度。</li>
+ <li> 记录钢筋混凝土栏杆老化范围、程度、露筋情况。</li>
+ <li> 检查混凝土内钢筋锈胀、栏杆混凝土脱落情况。</li>
+ <li> 栏杆及护栏遭受碰撞后修补情况，锚栓脱落后的修补情况。</li>
+ </ol>
+ <p style="text-align:justify"><a href="#id9.4.4"> 9.4.4</a> <span id="id9.4.4"> 桥面排水系统表观病害检测，应符合下列规定：</span></p>  
+ <ol>
+ <li> 泄水管发生堵塞、严重的锈蚀、开裂和断裂时，应检测并记录缺陷位置及严重程度。</li>
+ <li> 分幅桥中间搭板与桥面之间密闭不严或有孔洞发生漏水时，应检测和记录漏水范围和程度。</li>
+ <li> 翼缘板渗水时，应检测桥面板及防水层破坏情况。</li>
+ </ol> 
+
+
+9.5 索力检测
+------------------------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id9.5.1"> 9.5.1</a> <span id="id9.5.1"> 在用桥梁索结构的索力宜采用振动频率法进行现场检测。</span></p>
+ <p style="text-align:justify"><b>条文说明</b></p>
+ <p style="text-align:justify;text-indent:2em;" > 索结构的索力与索的振动频率存在一定的对应关系，当已知索的长度、质量分布及抗弯刚度时，可以通过索的振动频率计算索的拉力。</p>
+ <p style="text-align:justify"><a href="#id9.5.2"> 9.5.2</a> <span id="id9.5.2"> 采用振动频率法进行索力检测时，应按下列步骤进行：</span></p>
+ <ol>
+ <li> 查阅设计资料和以往检测报告等，掌握索结构的实测频率和索力换算值。</li>
+ <li> 在索结构上附着高灵敏度的加速度传感器，拾取索结构的振动信号，测定索的振动频率。传感器宜安装在远离锚固端的位置。</li>
+ <li> 采样频率应大于或等于索股第5阶自振频率的5倍，且不宜低于100 Hz</li>
+ <li> 据索力与其振动频率之间的关系求出索力。索力计算可参考《公路桥梁荷载试验规程》(JTG/TJ21-01—2015)第B.0.4条进行。</li>
+ <li> 短索吊杆索力换算时应考虑抗弯刚度的影响，索的长细比小于10的情况下，索力测试误差较大，可直接记录振动频率，通过频率值的变化来判断短索的索力变化情况。</li>
+ <li> 安装长期监测系统的拉索，索力检测结果应与监测结果进行对比分析，综合判断索力的变化情况。</li>
+ </ol> 
+ <p style="text-align:justify"><b>条文说明</b></p>
+ <p style="text-align:justify;text-indent:2em;" > 拉吊索索力是衡量拉吊索桥梁是否处于正常运营状态的一个重要指标。对于成桥索力，国内外常用振动频率法测量索力。索端安装阻尼器的拉索，由于阻尼器对拉索频率的影响比较复杂，用分析的方法来确定这种影响比较因难，通常来用测量每一根拉索安装阻尼器前后的频率变化，来确定阻尼器对拉索的约来作用。振动频率法测量索力，影响测量结果的主要因素有两点:①索两端约来条件以及索长的取值与理论假设的差异；②索抗宵刚度的影响。短吊杆索力测试有较大误差，需要记录其振动频率值，通过频率值的变化来判断短吊杆的索力变化情况。</p>

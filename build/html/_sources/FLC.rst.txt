@@ -8,20 +8,10 @@
 .. raw:: html
 
 
-  <div align="center"><img id="figC.1" src="./_static/fig/flC.1.png" alt="Picture" width="600px"></div>
-  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figC.1'));</script>
+   <div align="center"><img id="BC.1" src="./_static/fig/C.1.png" alt="Picture" width="700px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('BC.1'));</script>
+  <P>   </P>
+   <div align="center"><img id="BC.2" src="./_static/fig/C.2.png" alt="Picture" width="700px"></div>
+  <script type="text/javascript">var viewer = new Viewer(document.getElementById('BC.2'));</script>
 
-  <div align="center"><img id="figC.2" src="./_static/fig/flC.2.png" alt="Picture" width="600px"></div>
-  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figC.2'));</script>
-
-  <div align="center"><img id="figC.3" src="./_static/fig/flC.3.png" alt="Picture" width="600px"></div>
-  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figC.3'));</script>
-
-  <div align="center"><img id="figC.4" src="./_static/fig/flC.4.png" alt="Picture" width="600px"></div>
-  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figC.4'));</script>  
-
-  <div align="center"><img id="figC.5" src="./_static/fig/flC.5.png" alt="Picture" width="600px"></div>
-  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figC.5'));</script>
-
-  <div align="center"><img id="figC.6" src="./_static/fig/flC.6.png" alt="Picture" width="600px"></div>
-  <script type="text/javascript">var viewer = new Viewer(document.getElementById('figC.6'));</script>    
+  <P>   </P>
